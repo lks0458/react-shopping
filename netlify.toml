@@ -1,0 +1,3 @@
+[bulid]
+    publish = "public"
+    command = "npm run bulid"
